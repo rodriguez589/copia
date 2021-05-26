@@ -1,0 +1,11 @@
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\bin\Debug\labos04_06.exe.config
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\bin\Debug\labos04_06.exe
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\bin\Debug\labos04_06.pdb
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04-06.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04_06.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04-06.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04-06.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04_06.exe
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04_06.pdb
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04_06.Form1.resources
+C:\Users\eduar\OneDrive\Documentos\Documentos\Labs\labos04-06\labos04-06\labos04-06\obj\Debug\labos04_06.frmphoto.resources
