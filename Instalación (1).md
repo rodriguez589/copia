@@ -14,7 +14,7 @@ Donde realizamos nuestra base de datos para el desarrollo del proyecto fue en **
 
 Luego no se modifica lo demás que nos piden hasta que nos salga crear una contraseña, después de eso se verifica la conexión, el nombre del root y la contraseña que digitamos, finalmente se deja todo predeterminado hasta que se finalice el proceso de instalación.
 
-###Base de datos existente
+### Base de datos existente
 En el proyecto contamos con una base de datos creada por nosotros en el cual utilizamos una cadena de conexión al IDE de Visual Studio para vincularlo, ya que contaba con las tablas y valores hechas para solo desarrollarlo por código.
 
 
