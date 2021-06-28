@@ -8,8 +8,11 @@ Gracias a Microsoft fue que utilizamos **Visual Studio 2019** tiene su propia p�
 Donde realizamos nuestra base de datos para el desarrollo del proyecto fue en **MySQL Comunity Server** con la versión de 8.0.25 y en el cual se puede acceder a la descarga en el siguiente link **https://dev.mysql.com/downloads/windows/installer/8.0.html**  lo cual instalamos la segunda opción. Al tener el instalador abierto tendremos que hacer cosas adicionales, comenzando donde nos pedirán el tipo de configuración adaptar para el caso de uso, el cual nosotros escogimos el **Custom**, luego tendremos que seleccionar los productos que utilizaremos con su respectiva versión 8.0.25,son 4 productos y las cuales se instalaron así:
 
 1.MySQL Server -> MySQL Server
+
 2.Aplications -> MySQL Workbench
+
 3.Documentation -> MySQL documentation
+
 4.Documentación -> Samples and Examples
 
 Luego no se modifica lo demás que nos piden hasta que nos salga crear una contraseña, después de eso se verifica la conexión, el nombre del root y la contraseña que digitamos, finalmente se deja todo predeterminado hasta que se finalice el proceso de instalación.
