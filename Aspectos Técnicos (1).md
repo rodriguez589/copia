@@ -11,6 +11,7 @@ El sistema operativo que se utilizamos todos los integrantes para el desarrollo 
 
 #### Paquetes Externos 
 Los paquetes externos que implementamos en el programa son los **nugets** lo cual fueron 3 con sus respectivas versiones recientes más estables:
+
 -MySql.EntityFrameworkCore 5.0.3.1
 
 -Microsoft.EntityFrameworkCore 5.0.7
